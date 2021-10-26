@@ -2,6 +2,7 @@ public class Apples{
   public static void main(String[] args){
 
     int amountOfApples = 22;
+    int pears = 20000;
     String typeOfApple = "Pink Lady";
     String secondTypeOfApple = "Elise";
     int amountOfElise = 45;
